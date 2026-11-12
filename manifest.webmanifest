@@ -1,0 +1,12 @@
+{
+  "name": "图谱库 · 图片管理",
+  "short_name": "图谱库",
+  "description": "在手机上整理、标记和搜索图片与歌谱",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080c18",
+  "theme_color": "#0b1020",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
